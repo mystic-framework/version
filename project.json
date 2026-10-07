@@ -1,0 +1,9 @@
+{
+  "name": "MysticVersion",
+  "version": "1.0.0",
+  "description": "A simple library for exposing version information programmatically across the codebase.",
+  "homepage": "https://mystic-framework.github.io/docs/modules/version",
+  "languages": ["CXX"],
+  "cxx_standard": 23,
+  "license": "Apache-2.0"
+}
